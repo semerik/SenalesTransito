@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Señales Transito</string>
+    <string name="descripcion">Selecciona el tipo de señalización</string>
+    <string name="seleccion">Pulse para seleccionar</string>
+    <string name="seleccionado">As seleccionado:</string>
+
+    <string-array name="tipoSeñalizacion">
+        <item>Regulacion</item>
+        <item>Advertencia</item>
+        <item>Peligro</item>
+        <item>Informacion</item>
+    </string-array>
+
+    <string-array name="Regulacion">
+        <item>Pare</item>
+        <item>Ceda el Paso</item>
+        <item>Cruce de Peatones</item>
+        <item>No Girar a la Derecha</item>
+    </string-array>
+
+    <string-array name="Advertencia">
+        <item>Curva Peligrosa</item>
+        <item>Zona Escolar</item>
+        <item>Pavimento Resbaladizo</item>
+        <item>Animales en la Vía</item>
+    </string-array>
+
+    <string-array name="Peligro">
+        <item>Peligro por Obra en la Carretera</item>
+        <item>Cruce de Vehículos Pesados</item>
+        <item>Cruce de Tren</item>
+        <item>Desnivel en la Carretera</item>
+    </string-array>
+
+    <string-array name="Informacion">
+        <item>Hospital</item>
+        <item>Estación de Servicio</item>
+        <item>Aeropuerto</item>
+        <item>Estación de Policía</item>
+    </string-array>
+    
+</resources>
